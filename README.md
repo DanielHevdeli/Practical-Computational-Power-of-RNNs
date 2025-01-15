@@ -1,3 +1,4 @@
 # Practical-Computational-Power-of-RNNs
 This project is based on the paper [On the Practical Computational Power of Finite Precision RNNs](https://arxiv.org/pdf/1805.04908) by Gail Weiss, Yoav Goldberg and Eran Yahav. Its about showing that although they are theoretically equivalent, practically, different RNN architechtures have different computational power. As mentioned in the paper, while RNNs are famously known to be Turing
 complete, this relies on infinite precision in the states and unbounded computation time. I will consider the case of RNNs with finite precision whose computation time is linear in the input length (like typical RNNs for NLP tasks, available by the various deep learning frameworks, trained by the backpropagation algorithm). Under these limitations, I will show that different RNNs have different computational power.
+Enjoy!
